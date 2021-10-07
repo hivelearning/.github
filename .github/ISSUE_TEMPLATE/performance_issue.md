@@ -1,7 +1,7 @@
 ---
 name: Performance issue
 about: Create a report to help us improve
-title: ':snail: -- Performance issue -- :snail:'
+title: '🐌  -- Performance issue -- 🐌 '
 labels: 'Type: Performance'
 assignees: ''
 
