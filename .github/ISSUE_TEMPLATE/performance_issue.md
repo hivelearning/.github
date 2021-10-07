@@ -8,9 +8,8 @@ assignees: ''
 ---
 
 **Describe the issue**
-A clear and concise description of what the issue is.
-If relevant include:
-1. User {} navigated to page {url} in organisation {organisation}
+//A clear and concise description of what the issue is. If relevant include:
+ - User {} navigated to page {url} in organisation {organisation}
 
 **To Reproduce**
 Steps to reproduce the behavior:
@@ -19,11 +18,11 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 
 **Observability**
-Describe which observability tools show the problem. 
-Include links to New Relic, XRay or Grafana if relevant.
+//Describe which observability tools show the problem. 
+//Include links to New Relic, XRay or Grafana if relevant.
 
 **Known bottlenecks**
-If the issue ties in with a known problem, identify it here.
+//If the issue ties in with a known problem, identify it here.
 
 **Desktop or Mobile (please complete the following information):**
  - Device: [e.g. iPhone6]
@@ -32,4 +31,4 @@ If the issue ties in with a known problem, identify it here.
  - Version [e.g. 22]
 
 **Additional context**
-Add any other context about the problem here.
+//Add any other context about the problem here.
