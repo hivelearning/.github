@@ -1,18 +1,18 @@
 ---
 name: Performance issue
 about: Create a report to help us improve
-title: ':snail: Performance issue :snail:'
+title: ':snail: -- Performance issue -- :snail:'
 labels: 'Type: Performance'
 assignees: ''
 
 ---
 
 **Describe the issue**
-//A clear and concise description of what the issue is. If relevant include:
+//A clear and concise description of what the issue is. If relevant include specifics, for example:
  - User {} navigated to page {url} in organisation {organisation}
-
+ - Whilst a spike in traffic occurred, page {url} showed a significant drop in response time {average-response-time}
 **To Reproduce**
-Steps to reproduce the behavior:
+//Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
