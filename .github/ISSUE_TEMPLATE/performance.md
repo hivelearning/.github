@@ -10,7 +10,7 @@ assignees: ''
 **Is there an existing issue for this?**
 //Please search to see if an issue already exists for the performance issue you encountered
 
--[] I have searched the existing issues
+- [] I have searched the existing issues
 
 **Describe the issue**
 
