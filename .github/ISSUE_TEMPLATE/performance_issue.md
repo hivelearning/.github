@@ -9,7 +9,9 @@ assignees: ''
 
 **Describe the issue**
 
-//A clear and concise description of what the issue is. If relevant include specifics, for example:
+//A clear and concise description of what the issue is. Include specifics, like:
+ - User ID
+ - date and time
  - User {} navigated to page {url} in organisation {organisation}
  - Whilst a spike in traffic occurred, page {url} showed a significant drop in response time {average-response-time}
 
@@ -25,10 +27,6 @@ assignees: ''
 //Describe which observability tools show the problem. 
 
 //Include links to New Relic, XRay or Grafana if relevant.
-
-**Known bottlenecks**
-
-//If the issue ties in with a known problem, identify it here.
 
 **Desktop or Mobile (please complete the following information):**
  - Device: [e.g. iPhone6]
