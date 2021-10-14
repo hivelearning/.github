@@ -11,21 +11,21 @@ body:
     - label: I have searched the existing issues
       required: true
 - type: input
-    id: userid
-    attributes:
-      label: Userid
-      description: The userid
-      placeholder: UUID
-    validations:
-      required: false
+  id: userid
+  attributes:
+    label: Userid
+    description: The userid
+    placeholder: UUID
+  validations:
+    required: false
 - type: input
-    id: timestamp
-    attributes:
-      label: timestamp
-      description: Date and time of found issue
-      placeholder: Date & Time
-    validations:
-      required: false
+  id: timestamp
+  attributes:
+    label: timestamp
+    description: Date and time of found issue
+    placeholder: Date & Time
+  validations:
+    required: false
 - type: textarea
   attributes:
     label: Current Behavior
